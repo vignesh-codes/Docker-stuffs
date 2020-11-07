@@ -17,4 +17,4 @@ sudo docker exec --user=root -it ID /bin/bash
 ```
 
 source file is in /home/multi-proc/multi-proc.py
-log found in home/mpOut.log 
+log found in :/# mpOut.log 
