@@ -5,8 +5,8 @@ For testing vae setup
 multi proc scenario:
 get 1 api response every 10 seconds
 another api response every 20 seconds
-creates dummy file every 25 seconds
-deletes that dummy file every 30 seconds
+creates dummy file every 600 seconds
+Deletes that dummy file every 650 seconds
 
 
 ```bash
