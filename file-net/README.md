@@ -18,6 +18,4 @@ sudo docker build -t file-net .
 sudo docker run file-net
 sudo docker exec --user=root -it ID /bin/bash
 ```
-
-source file is in /home/multi-proc/multi-proc.py
-log found in home/mpOut.log 
+check syslog.log
